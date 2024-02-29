@@ -1,2 +1,2 @@
 # Parvej-
-Android Engineer C C++ Java Kotlin 
+Full Stack Web Developer HTML CSS JS PHP MYSQL LARAVEL
