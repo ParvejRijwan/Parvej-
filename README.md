@@ -1,2 +1,2 @@
 # Parvej-
-Full Stack Web Developer HTML CSS JS PHP MYSQL LARAVEL
+Full Stack Web Developer HTML CSS JavaScript  Bootstrap PHP MYSQL LARAVEL
